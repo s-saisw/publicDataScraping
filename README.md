@@ -10,3 +10,4 @@ Downloading and cleaning
 - Source: https://data.moc.go.th/OpenData/CPIPIndexes
 - Variable(s): eatOutPrice (122, CPI for food consumed at restaurants)
 - List of files: monthlyCPI_download
+- How to use: 1) set id 2) the rest is automated
