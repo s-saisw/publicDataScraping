@@ -8,6 +8,21 @@ Downloading and cleaning
 
 ## Provincial CPI data (monthly, 2003-2017)
 - Source: https://data.moc.go.th/OpenData/CPIPIndexes
-- Variable(s): eatOutPrice (122, CPI for food consumed at restaurants)
 - List of files: monthlyCPI_download
-- How to use: 1) set id 2) the rest is automated
+- How to use: 
+    1. set id 
+    2. the rest is automated
+- Variable(s): The list of price index is as follows
+
+id  | price
+---- | -------------
+1111 | rice
+1140 | fruits and vegetables
+1160 | non-alcoholic drinks
+2000 | clothes and shoes
+2100 | clothes
+2200 | shoes
+3700 | domestic workers
+4220 | private service
+8200 | food and beverage (excluding raw ingredients)
+9100 | raw ingredients
