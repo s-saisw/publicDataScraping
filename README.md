@@ -3,11 +3,13 @@ Downloading and cleaning
 
 ## Provincial CPI data (annual, 2006-2015)
 - Source: http://service.nso.go.th/nso/web/statseries/statseries25.html
+- Idea: scrape links and download
 - Variable(s): eatOutPrice (CPI for food consumed at restaurants)
 - List of files: CPI_downloadSourceCode.txt, CPI_download.R, getPrice.R
 
 ## Provincial CPI data (monthly, 2003-2017)
 - Source: https://data.moc.go.th/OpenData/CPIPIndexes
+- Idea: download using API
 - List of files: monthlyCPI_download.R
 - How to use: 
     1. set id for the price you want to download (Details below)
