@@ -1,0 +1,451 @@
+<li> <a href="tables/27100_Kanchanaburi/rain-46-58.xls" target="_NEW">กาญจนบุรี</a></li>
+
+                            <li> <a href="tables/22200_Chanthaburi/rain-46-58.xls" target="_NEW">จันทบุรี</a></li>
+
+                            
+
+                            <li> <a href="tables/22000_Chon_Buri/rain-46-58.xls" target="_NEW">ชลบุรี</a></li>
+
+                            
+
+                            <li> <a href="tables/22300_Trat/rain-46-58.xls" target="_NEW">ตราด</a></li>
+
+                            
+
+                             <li> <a href="tables/27700_Prachuap_Khiri_Khan/rain-46-58.xls" target="_NEW">ประจวบคีรีขันธุ์</a></li>
+
+                             <li> <a href="tables/22500_Prachin_Buri/rain-46-58.xls" target="_NEW">ปราจีนบุรี</a></li> 
+
+                             
+
+                             <li> <a href="tables/27600_Phetchaburi/rain-46-58.xls" target="_NEW">เพชรบุรี</a></li>
+
+                             <li> <a href="tables/22100_Rayong/rain-46-58.xls" target="_NEW">ระยอง</a></li>
+
+                              
+
+                             <li> <a href="tables/21600_Lop_Buri/rain-46-58.xls" target="_NEW">ลพบุรี</a></li>
+
+                             <li> <a href="tables/21100_Samut_Prakan/rain-46-58.xls" target="_NEW">สมุทรปราการ</a></li>
+
+                             
+
+                             <li> <a href="tables/22700_Sa_Kaeo/rain-46-58.xls" target="_NEW">สระแก้ว</a></li>
+
+                           
+
+                             <li> <a href="tables/27200_Suphan_Buri/rain-46-58.xls" target="_NEW">สุพรรณบุรี</a></li>
+
+                           
+
+						
+
+	 
+
+ 	
+
+    </ul>
+
+</li>
+
+      
+
+       
+
+             <li><a href="#">ภาคเหนือ</a>
+
+				<ul>
+
+				                 <li> <a href="tables/36200_Kamphaeng_Phet/rain-46-58.xls" target="_NEW">กำแพงเพชร</a></li>
+
+                            <li> <a href="tables/35000_Chiang_Mai/rain-46-58.xls" target="_NEW">เชียงใหม่</a></li>
+
+                            <li> <a href="tables/35700_Chiang_Rai/rain-46-58.xls" target="_NEW">เชียงราย </a></li> 
+
+                            <li> <a href="tables/36700_Phetchabun/rain-46-58.xls" target="_NEW">เพชรบูรณ์</a></li>
+
+                            <li> <a href="tables/36500_Phitsanulok/rain-46-58.xls" target="_NEW">พิษณุโลก</a></li>
+
+                            <li> <a href="tables/35400_Phrae/rain-46-58.xls" target="_NEW">แพร่</a></li>
+
+                            <li> <a href="tables/35200_Lampang/rain-46-58.xls" target="_NEW">ลำปาง</a></li>
+
+                            <li> <a href="tables/35100_Lamphun/rain-46-58.xls" target="_NEW">ลำพูน</a></li>
+
+                            <li> <a href="tables/36400_Sukhothai/rain-46-58.xls" target="_NEW">สุโขทัย</a></li>
+
+                            <li> <a href="tables/35300_Uttaradit/rain-46-58.xls" target="_NEW">อุตรดิตถ์ </a></li>
+
+                          
+
+                            <li> <a href="tables/36300_Tak/rain-46-58.xls" target="_NEW">ตาก</a></li>
+
+                            <li> <a href="tables/36000_Nakhon_Sawan/rain-46-58.xls" target="_NEW">นครสวรรค์</a></li>
+
+                            <li> <a href="tables/35500_Nan/rain-46-58.xls" target="_NEW">น่าน</a></li>
+
+                            <li> <a href="tables/35600_Phayao/rain-46-58.xls" target="_NEW">พะเยา </a></li>
+
+                            
+
+                            <li> <a href="tables/35800_Mae_Hong_Son/rain-46-58.xls" target="_NEW">แม่ฮ่องสอน</a></li>
+
+					 
+
+				</ul>
+
+			</li>
+
+            
+
+           
+
+         
+
+             <li><a href="#">ภาคตุะวันออกเฉียงเหนือ</a>
+
+				<ul>
+
+					 
+
+						  
+
+			     <li> <a href="tables/44600_Kalasin/rain-46-58.xls" target="_NEW">กาฬสินธุ์</a></li>
+
+                            <li> <a href="tables/44000_Khon_Kaen/rain-46-58.xls" target="_NEW">ขอนแก่น</a></li> 
+
+                            <li> <a href="tables/43600_Chaiyaphum/rain-46-58.xls" target="_NEW">ชัยภูมิ</a></li> 
+
+                             <li> <a href="tables/44800_Nakhon_Phanom/rain-46-58.xls" target="_NEW">นครพนม</a></li> 
+
+                             <li> <a href="tables/43000_Nakhon_Ratchasima/rain-46-58.xls" target="_NEW">นครราชสีมา</a></li>
+
+                             <li> <a href="tables/43100_Buri_Ram/rain-46-58.xls" target="_NEW">บุรีรัมย์</a></li>
+
+                             <li> <a href="tables/44400_Maha_Sarakham/rain-46-58.xls" target="_NEW">มหาสารคาม</a></li>
+
+                            
+
+                             <li> <a href="tables/44500_Roi_Et/rain-46-58.xls" target="_NEW">ร้อยเอ็ด</a></li>
+
+                             <li> <a href="tables/44200_Loei/rain-46-58.xls" target="_NEW">เลย</a></li>
+
+                           
+
+                             <li> <a href="tables/44700_Sakon_Nakhon/rain-46-58.xls" target="_NEW">สกลนคร</a></li>
+
+                             <li> <a href="tables/43200_Surin/rain-46-58.xls" target="_NEW">สุรินทร์</a></li>
+
+                             <li> <a href="tables/44300_Nong_Khai/rain-46-58.xls" target="_NEW">หนองคาย</a></li>
+
+                          
+
+                             <li> <a href="tables/44100_Udon_Thani/rain-46-58.xls" target="_NEW">อุดรธานี</a></li>
+
+                             <li> <a href="tables/43400_Ubon_Ratchathani/rain-46-58.xls" target="_NEW">อุบลราชธานี</a></li>
+
+                             
+
+                             <li> <a href="tables/44900_Mukdahan/rain-46-58.xls" target="_NEW">มุกดาหาร</a></li>
+
+					 
+
+				</ul>
+
+			</li>
+
+            
+
+            
+
+        
+
+             <li><a href="#">ภาคใต้</a>
+
+				<ul>
+
+						      <li> <a href="tables/58100_Krabi/rain-46-58.xls" target="_NEW">กระบี่</a></li>
+
+                            <li> <a href="tables/58200_Phangnga/rain-46-58.xls" target="_NEW"> พังงา</a></li>
+
+                            <li> <a href="tables/58600_Chumphon/rain-46-58.xls" target="_NEW">ชุมพร</a></li>
+
+                            <li> <a href="tables/59200_Trang/rain-46-58.xls" target="_NEW">ตรัง</a></li>
+
+                            <li> <a href="tables/58000_Nakhon_Si_Thammarat/rain-46-58.xls" target="_NEW">นครศรีธรรมราช</a></li>
+
+                            <li> <a href="tables/59600_Narathiwat/rain-46-58.xls" target="_NEW">นราธิวาส</a></li>
+
+                            <li> <a href="tables/59400_Pattani/rain-46-58.xls" target="_NEW">ปัตตานี</a></li> 
+
+                           
+
+                            <li> <a href="tables/58300_Phuket/rain-46-58.xls" target="_NEW">ภูเก็ต</a></li>
+
+                         
+
+                            <li> <a href="tables/58500_Ranong/rain-46-58.xls" target="_NEW">ระนอง</a></li>
+
+                            <li> <a href="tables/59000_Songkhla/rain-46-58.xls" target="_NEW">สงขลา</a></li>
+
+                            <li> <a href="tables/59100_Satun/rain-46-58.xls" target="_NEW">สตูล</a></li>
+
+                            <li> <a href="tables/58400_Surat_Thani/rain-46-58.xls" target="_NEW">สุราษฎร์ธานี</a></li>
+
+					 
+
+				</ul>
+
+			</li>
+
+	  </ul>  
+
+  
+
+    
+
+    
+
+ 
+
+      
+
+            
+
+         <ul class="tmo_list">
+
+      <li>สถิติอุณหภูมิ ณ สถานีอุตุนิยมวิทยา พ.ศ.2546 - 2558 :</li>
+
+</ul>
+
+		    
+
+
+
+           <p class="news_box1">  ข้อมูลเป็นรายภาค </p>
+
+           	
+
+   <ul>	  
+
+       
+
+       <li> <a href="tables/11000_Bangkok/temp-46-58.xls" target="_blank">กรุงเทพมหานคร</a></li>
+
+	  
+
+    </ul>
+
+ 
+
+      <div class="cleaner h20"></div>
+
+       <p class="news_box1">  ข้อมูลเป็นรายจังหวัด </p>
+
+      
+
+ 
+
+     <ul class="topnav">
+
+     
+
+       
+
+	<li><a href="#">ภาคกลาง</a> 
+
+       <ul>
+
+      <li><a href="tables/27100_Kanchanaburi/temp-46-58.xls" target="_NEW">กาญจนบุรี</a></li>
+
+                                   <li><a href="tables/22200_Chanthaburi/temp-46-58.xls" target="_NEW">จันทบุรี</a></li>
+
+                                  
+
+                                   <li><a href="tables/22000_Chon_Buri/temp-46-58.xls" target="_NEW">ชลบุรี</a></li>
+
+                                   
+
+                                   <li><a href="tables/22300_Trat/temp-46-58.xls" target="_NEW">ตราด</a></li>
+
+                                 
+
+                                 <li><a href="tables/22500_Prachin_Buri/temp-46-58.xls" target="_NEW">ปราจีนบุรี</a></li> 
+
+                                   <li><a href="tables/27600_Phetchaburi/temp-46-58.xls" target="_NEW">เพชรบุรี</a></li>
+
+                                   <li><a href="tables/22100_Rayong/temp-46-58.xls" target="_NEW">ระยอง</a></li>
+
+                                   
+
+                                   <li><a href="tables/21600_Lop_Buri/temp-46-58.xls" target="_NEW">ลพบุรี</a></li>
+
+                                   <li><a href="tables/21100_Samut_Prakan/temp-46-58.xls" target="_NEW">สมุทรปราการ</a></li>
+
+                                   <li><a href="tables/27700_Prachuap_Khiri_Khan/temp-46-58.xls" target="_NEW">ประจวบคีรีขันธุ์</a></li>
+
+                                  
+
+                                   <li><a href="tables/22700_Sa_Kaeo/temp-46-58.xls" target="_NEW">สระแก้ว</a></li>
+
+                                   
+
+                                   <li><a href="tables/27200_Suphan_Buri/temp-46-58.xls" target="_NEW">สุพรรณบุรี</a></li>
+
+                                  
+
+						
+
+	 
+
+ 	
+
+    </ul>
+
+</li>
+
+ 
+
+      
+
+             <li><a href="#">ภาคเหนือ</a> 
+
+				<ul>
+
+				   <li><a href="tables/36200_Kamphaeng_Phet/temp-46-58.xls" target="_NEW">กำแพงเพชร</a></li>
+
+                                   <li><a href="tables/35000_Chiang_Mai/temp-46-58.xls" target="_NEW">เชียงใหม่</a></li>
+
+                                   <li><a href="tables/35700_Chiang_Rai/temp-46-58.xls" target="_NEW">เชียงราย </a></li>
+
+                                   <li><a href="tables/36700_Phetchabun/temp-46-58.xls" target="_NEW">เพชรบูรณ์</a></li>
+
+                                   <li><a href="tables/36500_Phitsanulok/temp-46-58.xls" target="_NEW">พิษณุโลก</a></li>
+
+                                   <li><a href="tables/35400_Phrae/temp-46-58.xls" target="_NEW">แพร่</a></li>
+
+                                   <li><a href="tables/35200_Lampang/temp-46-58.xls" target="_NEW">ลำปาง</a></li>
+
+                                   <li><a href="tables/35100_Lamphun/temp-46-58.xls" target="_NEW">ลำพูน</a></li>
+
+                                   <li><a href="tables/36400_Sukhothai/temp-46-58.xls" target="_NEW">สุโขทัย</a></li>
+
+                                   <li><a href="tables/35300_Uttaradit/temp-46-58.xls" target="_NEW">อุตรดิตถ์ </a></li>
+
+                                   
+
+                                   <li><a href="tables/36300_Tak/temp-46-58.xls" target="_NEW">ตาก</a></li>
+
+                                   <li><a href="tables/36000_Nakhon_Sawan/temp-46-58.xls" target="_NEW">นครสวรรค์</a></li>
+
+                                   <li><a href="tables/35500_Nan/temp-46-58.xls" target="_NEW">น่าน</a></li>
+
+                                   <li><a href="tables/35600_Phayao/temp-46-58.xls" target="_NEW">พะเยา </a></li> 
+
+                                   <li><a href="tables/35800_Mae_Hong_Son/temp-46-58.xls" target="_NEW">แม่ฮ่องสอน</a></li>
+
+					 
+
+				</ul>
+
+			</li>
+
+    
+
+          
+
+             <li><a href="#">ภาคตุะวันออกเฉียงเหนือ</a> 
+
+				<ul>
+
+					 
+
+						  
+
+			 
+
+                           <li><a href="tables/44600_Kalasin/temp-46-58.xls"  target="_NEW">กาฬสินธุ์</a></li>
+
+                           <li><a href="tables/44000_Khon_Kaen/temp-46-58.xls" target="_NEW">ขอนแก่น</a></li>
+
+                           <li><a href="tables/43600_Chaiyaphum/temp-46-58.xls" target="_NEW">ชัยภูมิ</a></li>
+
+                           <li><a href="tables/44800_Nakhon_Phanom/temp-46-58.xls" target="_NEW">นครพนม</a></li>
+
+                           <li><a href="tables/43000_Nakhon_Ratchasima/temp-46-58.xls" target="_NEW">นครราชสีมา</a></li>
+
+                           <li><a href="tables/43100_Buri_Ram/temp-46-58.xls" target="_NEW">บุรีรัมย์</a></li>
+
+                          
+
+                           <li><a href="tables/44400_Maha_Sarakham/temp-46-58.xls" target="_NEW">มหาสารคาม</a></li>
+
+                           
+
+                           <li><a href="tables/44500_Roi_Et/temp-46-58.xls" target="_NEW">ร้อยเอ็ด</a></li>
+
+                           <li><a href="tables/44200_Loei/temp-46-58.xls" target="_NEW">เลย</a></li>
+
+                           
+
+                           <li><a href="tables/44700_Sakon_Nakhon/temp-46-58.xls" target="_NEW">สกลนคร</a></li>
+
+                           <li><a href="tables/43200_Surin/temp-46-58.xls" target="_NEW">สุรินทร์</a></li>
+
+                           <li><a href="tables/44300_Nong_Khai/temp-46-58.xls" target="_NEW">หนองคาย</a></li>
+
+                            
+
+                           <li><a href="tables/44100_Udon_Thani/temp-46-58.xls" target="_NEW">อุดรธานี</a></li>
+
+                           <li><a href="tables/43400_Ubon_Ratchathani/temp-46-58.xls" target="_NEW">อุบลราชธานี</a></li>
+
+                            
+
+                           <li><a href="tables/44900_Mukdahan/temp-46-58.xls" target="_NEW">มุกดาหาร</a></li>
+
+					 
+
+				</ul>
+
+			</li>
+
+            
+
+            
+
+      
+
+       
+
+             <li><a href="#">ภาคใต้</a>
+
+				<ul>
+
+						<li><a href="tables/58100_Krabi/temp-46-58.xls" target="_NEW">กระบี่</a></li>
+
+                           <li><a href="tables/58600_Chumphon/temp-46-58.xls" target="_NEW">ชุมพร</a></li>
+
+                           <li><a href="tables/59200_Trang/temp-46-58.xls" target="_NEW">ตรัง</a></li>
+
+                           <li><a href="tables/58000_Nakhon_Si_Thammarat/temp-46-58.xls" target="_NEW">นครศรีธรรมราช</a></li>
+
+                           <li><a href="tables/59600_Narathiwat/temp-46-58.xls" target="_NEW">นราธิวาส</a></li>
+
+                           <li><a href="tables/59400_Pattani/temp-46-58.xls" target="_NEW">ปัตตานี</a></li>
+
+                           <li><a href="tables/58200_Phangnga/temp-46-58.xls" target="_NEW">พังงา</a></li>
+
+                          
+
+                           <li><a href="tables/58300_Phuket/temp-46-58.xls" target="_NEW">ภูเก็ต</a></li>
+
+                           
+
+                           <li><a href="tables/58500_Ranong/temp-46-58.xls" target="_NEW">ระนอง</a></li>
+
+                           <li><a href="tables/59000_Songkhla/temp-46-58.xls" target="_NEW">สงขลา</a></li>
+
+                           <li><a href="tables/59100_Satun/temp-46-58.xls" target="_NEW">สตูล</a></li>
+
+                           <li><a href="tables/58400_Surat_Thani/temp-46-58.xls" target="_NEW">สุราษฎร์ธานี</a></li>
