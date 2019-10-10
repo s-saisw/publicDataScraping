@@ -7,6 +7,12 @@ Downloading and cleaning
 - Variable(s): eatOutPrice (CPI for food consumed at restaurants)
 - List of files: CPI_downloadSourceCode.txt, CPI_download.R, getPrice.R
 
+## Provincial rainfall data (annual, 2003-2015)
+- Source: http://service.nso.go.th/nso/web/statseries/statseries27.html
+- Idea: scrape links and download
+- Variable(s): total rainfall, number of rainy days
+- List of files: rainfall_sourceCode_download.txt, rainfall_download.R
+
 ## Provincial CPI data (monthly, 2003-2017)
 - Source: https://data.moc.go.th/OpenData/CPIPIndexes
 - Idea: download using API
