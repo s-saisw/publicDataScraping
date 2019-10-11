@@ -1,0 +1,1450 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="th" lang="th">
+
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<title>จำนวนโรงงานอุตสาหกรรม และผลผลิตภาคอุตสาหกรรม </title>
+
+       
+
+       <link rel="stylesheet" href="accor.css" type="text/css" media="screen" />
+
+        <script type="text/javascript" src="../js/jquery-1.5.2.min.js"></script>
+
+       <script type="text/javascript" src="../js/scriptbreaker-multiple-accordion-1.js"></script>
+
+  
+
+       <link rel="stylesheet" href="../menu-sub/mega-n.css" type="text/css" media="screen" />
+
+        <link href="../css-sub/timeseries-style.css" rel="stylesheet" type="text/css" />
+
+              
+
+      
+
+<script language="javascript" type="text/javascript">
+
+function clearText(field)
+
+{
+
+    if (field.defaultValue == field.value) field.value = '';
+
+    else if (field.value == '') field.value = field.defaultValue;
+
+}
+
+</script>
+
+
+
+<script type="text/javascript">
+
+
+
+$(document).ready(function() {
+
+	$(".topnav").accordion({
+
+		accordion:false,
+
+		speed: 500,
+
+		closedSign: '[+]',
+
+		openedSign: '[-]'
+
+	});
+
+});
+
+
+
+</script>
+
+
+
+<style type="text/css">
+
+<!--
+
+.thelanguage {display: none}
+
+-->
+
+</style>
+
+</head>
+
+<body>
+
+<div id="templatemo_top_wrapper">
+
+  <div id="templatemo_top">
+
+    <div id="templatemo_header">
+
+      <div id="templatemo_middle">
+
+        <div id="templatemo_menu">
+
+          <ul>
+
+            <li><a href="http://www.nso.go.th" class="current">หน้าหลัก</a></li>
+
+            <li><a href="http://service.nso.go.th/nso/web/about/about01.html" target="_parent">เกี่ยวกับ สสช.</a></li>
+
+            <li><a href="http://service.nso.go.th/nso/web/contact/contact01.html" target="_parent">ติดต่อ สสช.</a></li>
+
+            <li><a href="http://service.nso.go.th/nso/web/news/news01.html" target="_parent">ข่าว สสช.</a></li>
+
+            <li><a href="http://thailocal.nso.go.th/suggest/comment/comments/pub_add/" target="_new">ร้องเรียน/ข้อเสนอแนะ</a></li>
+
+            <li><a href="http://service.nso.go.th/nso/web/sitemap/sitemap.html" target="_parent">Site Map</a></li>
+
+          </ul>
+
+          <div class="cleaner"></div>
+
+        </div>
+
+        <!-- end of templatemo_menu -->
+
+      </div>
+
+      <!-- end of middle -->
+
+      <ul id="menu">
+
+        <li><a href="#" class="drop">สำมะโน</a>
+
+          <!-- Begin 5 columns Item -->
+
+          <div class="dropdown_5_1columns">
+
+            <!-- Begin 5 columns container -->
+
+            <div class="col_5_1"> <em>สำมะโนประชากรและเคหะ</em></div>
+
+            <div class="cleaner h20"></div>
+
+            <div class="col_3"> <img src="img/pop.png" width="70" height="70" class="img_left imgshadow" alt="ผลเบื้องต้นสำมะโนประชากรและเคหะ พ.ศ. 2553 ประเทศไทย " />
+
+              <p>ผลเบื้องต้นสำมะโนประชากรและเคหะ พ.ศ. 2553 ประเทศไทย มีประชากร ณ วันสำมะโน คือวันที่ 1 กันยายน 2553 จำนวน 65.9 ล้านคน มีประชากรหญิง 33.6 ล้านคน และชาย 32.3<a href="http://popcensus.nso.go.th/" target="_blank">อานต่อ...</a></p>
+
+            </div>
+
+            <div class="col_3">
+
+              <div class="cleaner h10"></div>
+
+              <div class="col_5_1"> <em>สำมะโนการเกษตร</em></div>
+
+              <div class="cleaner h20"></div>
+
+              <div class="col_3"> <img src="img/Agricult.png" width="70" height="70" class="img_left imgshadow" alt="สำมะโนการเกษตร" />
+
+                <p>1 - 31 พฤษภาคม 2556 สำนักงานสถิติแห่งชาติ จัดทำสำมะโนการเกษตร เป็นครั้งที่ 6 โดยได้จัดทำครั้งแรกเมื่อ พ.ศ. 2493 ครั้งที่สอง พ.ศ. 2506 ครั้งที่สาม พ.ศ. 2521 ครั้งที่สี่ พ.ศ. 2536 ครั้งที่ห้า พ.ศ. 2546 <a href="http://popcensus.nso.go.th/web/kaset/">อ่านต่อ...</a></p>
+
+              </div>
+
+            </div>
+
+            <div class="cleaner h10"></div>
+
+            <div class="col_5_1"> <em>สำมะโนธุุรกิจและอุตสาหกรรม</em></div>
+
+            <div class="cleaner h20"></div>
+
+            <div class="col_3"> <img src="img/Busind.png" width="70" height="70" class="img_left imgshadow" alt="สำมะโนธุุรกิจและอุตสาหกรรม" />
+
+              <p>จัดทำขึ้นเพื่อเก็บรวบรวมข้อมูลพื้นฐานที่แสดงให้เห็นโครงสร้างและการกระจายตัวของสถานประกอบการต่าง ๆ รวมถึงการเก็บรวบรวมรายละเอียดการดำเนินงาน <a href="http://service.nso.go.th/nso/web/census/bussindustry.html">อ่านต่อ...</a></p>
+
+            </div>
+
+          </div>
+
+          <!-- End 5 columns container -->
+
+        </li>
+
+        <li><a href="#" class="drop">สำรวจ</a>
+
+          <!-- Begin service Item -->
+
+          <div class="dropdown_5columns">
+
+            <!-- Begin service container -->
+
+            <div class="col_5"> <em>โครงการสำรวจที่สำนักงานสถิติแห่งชาติจัดทำ</em></div>
+
+            <div class="cleaner h10"></div>
+
+            <div class="col_1_1">
+
+              <p ><strong>ประชากรและเคหะ </strong><br />
+
+                เป็นสถิติที่นำเสนอข้อมูลสำคัญทางด้านประชากรและเคหะ ได้แก่การเปลี่ยนแปลงทางประชากร แรงงาน 
+
+                การศึกษา รายได้รายจ่ายในครัวเรือน การย้ายถิ่น <a href="http://service.nso.go.th/nso/web/survey/survey_pop.html">ข้อมูลเพิ่มเติม..</a></p>
+
+            </div>
+
+            <div class="col_1_1">
+
+              <p><strong>เศรษฐกิจ</strong> <br/>
+
+                ข้อมูลสถิติด้านเศรษฐกิจ ประกอบด้วย ข้อมูลสถิติด้านการเกษตร อุตสาหกรรม เหมืองแร่ ก่อสร้าง พลังงาน การท่องเที่ยว โรงแรม ภัตตาคาร และเทคโนโลยี <a href="http://service.nso.go.th/nso/web/survey/survey_eco.html">ข้อมูลเพิ่มเติม..</a></p>
+
+            </div>
+
+            <div class="col_1_1">
+
+              <p><strong>พลังงานและสิ่งแวดล้อม</strong><br/>
+
+              </p>
+
+              <div class="italic"> ข้อมูลสถิติด้านพลังงานและสิ่งแวดล้อม เป็นข้อมูลสถิติที่เก็บข้อมูลเกี่ยวกับ อากาศ ดิน น้ำ ป่าไม้ แร่และพลังงาน ขยะและของเสีย การตั้งถิ่นฐานของมนุษย์ </div>
+
+              <a href="http://service.nso.go.th/nso/web/survey/survey_env.html">ข้อมูลเพิ่มเติม..</a>
+
+              <p/>
+
+              <a href="http://service.nso.go.th/nso/web/survey/surveylist.html" class="more float_r">ดูทั้งหมด...</a></div>
+
+            <div class="col_3"> <img src="img/plan.jpg" width="70" height="70" class="img_left imgshadow" alt="คาบเวลาการสำมะโน สำรวจ" />
+
+              <p><a href="http://service.nso.go.th/nso/nsopublish/aboutnso/nsoPlan.pdf" target="_blank">คาบเวลาการสำมะโน สำรวจ...</a></p>
+
+            </div>
+
+          </div>
+
+          <!-- End survey container -->
+
+        </li>
+
+        <!-- End 5 columns Item -->
+
+        <li><a href="../service/service.html" class="drop">บริการสถิติ</a>
+
+          <!-- Begin service Item -->
+
+          <div class="dropdown_5columns">
+
+            <!-- Begin service container -->
+
+            <div class="cleaner h10"></div>
+
+            <div class="col_1_1">
+
+              <ul class="greybox1">
+
+                 <li><a href="#">ข้อมูลสถิติต่างๆ</a>
+
+				 	<ul>
+
+						<li class="expanded"><a href="#">ข้อมูลสถิติ</a>
+
+						<ul>
+
+							<li><a href="http://service.nso.go.th/nso/nso_center/project/search_center/23project-th.htm">ตารางสถิติ</a></li>
+
+							<li><a href="http://service.nso.go.th/nso/web/statseries/statseries.html">สถิติอนุกรมเวลา (Time Series)</a></li>
+
+							<li><a href="http://service.nso.go.th/nso/thailand/thailand.jsp">สถิติที่สำคัญระดับประเทศ ภาค และจังหวัด</a></li>
+
+							<li><a href="http://service.nso.go.th/nso/web/topten/topten.html">สถิติ 10 อันดับเด่น (Top Ten)</a></li>
+
+							<li><a href="http://service.nso.go.th/nso/web/income/income.html">ข้อมูลรายได้และความยากจน (Poverty Map)</a></li>
+
+							<li><a href="http://service.nso.go.th/nso/web/service/service02.html">ตัวชี้วัดที่น่าสนใจ</a></li>
+
+						</ul>
+
+						</li>
+
+						<li><a href="http://statgis.nso.go.th/d">ระบบภูมิสารสนเทศ (NSO-GIS)</a></li>
+
+						<li><a href="http://infra.nso.go.th/sso/jsp/login.jsp?site2pstoretoken=v1.2~04176BAE~E7465CA8EA3EA3FAFC8A85E0DD4AF48682642E26F368B8DF3B2754EB2131534A08BE2985FBE45F120459E0701184E1931D79E2EF716CB6055EDA8E3779B6EC4DE76CD0778D8551533B196F4AE88DEED993E07BA0B19A6832697D5E2506D2EF06802228AD39994CD9EC425705D09D4FDB68011D1C2ABC537DF5482783CEFE81DBA362B0929453ADBF6DBB3E09BB7E5F46D7F2586E03BB9EDCEB10ADF2A6184ECFF6274FC404D41141E67714ED65065235BFDA386E0D1910091FA7D537346030EDA816274993101575&amp;p_error_code=&amp;p_submit_url=http%3A%2F%2Finfra.nso.go.th%2Fsso%2Fauth&amp;p_cancel_url=http%3A%2F%2Fportal.nso.go.th%2Fpls%2Fportal%2FPORTAL.home&amp;ssousername=">ระบบคลังข้อมูล (Data Warehouse)</a></li>
+
+						<li><a href="#">ระบบบริการข้อมูลระดับย่อย (NADA) (ยังไม่เปิดใช้บริการ)</a></li>
+
+						<li><a href="http://service.nso.go.th/nso/web/faq/faq.html">FAQ</a></li>
+
+						<li><a href="http://service.nso.go.th/nso/nsopublish/news/rules/servicestat.pdf">ประกาศการใช้บริการข้อมูล</a></li>
+
+						<li><a href="http://service.nso.go.th/nso/nsopublish/service/servService.html">เงื่อนไขการให้บริการ</a></li>
+
+					</ul>
+
+				 </li>
+
+                <li><a href="http://service.nso.go.th/nso/web/service/service03.html">สารสนเทศสถิติเด่น (Infographics)</a>
+
+				 </li>
+
+              </ul>
+
+            </div>
+
+            <div class="col_1_1">
+
+              <ul class="greybox1">
+
+                <li><a href="http://service.nso.go.th/nso/web/service/service01.html">ข้อมูลสำมะโน/สำรวจล่าสุด</a>
+
+				</li>
+
+                <li><a href="http://164.115.22.198/statv2/bipage/page.html">สถิติทางการ (พิจารณาโดยอนุกรรมการสถิติรายสาขา)</a></li>
+
+              </ul>
+
+            </div>
+
+            <div class="col_1_1">
+
+              <ul class="greybox1">
+
+                <li><a href="../service/service05.html">ข้อมูลสารสนเทศเพื่อการตัดสินใจตามยุทธศาสตร์</a>
+
+					<ul>
+
+						<li><a href="http://www.nic.go.th/gsic/strategy.php?ds=policy-30&amp;rd=policy-30-tab-1">แผนที่ประเด็นยุทธศาสตร์ (Mind Maps)</a></li>
+
+						<li><a href="http://www.nic.go.th/%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%AA%E0%B8%96%E0%B8%B4%E0%B8%95%E0%B8%B4/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%B0%E0%B8%AB%E0%B9%8C.html">บทความวิเคราะห์</a></li>
+
+						<li><a href="http://www.nic.go.th/%E0%B8%8A%E0%B8%B8%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%8A%E0%B8%B5%E0%B9%89%E0%B8%A7%E0%B8%B1%E0%B8%94/%E0%B9%80%E0%B8%9B%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%A9%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2-mdgs.html">ชุดตัวชี้วัดสำคัญ</a></li>
+
+					</ul>
+
+				</li>
+
+                <li><a href="../service/service06.html">เอกสารรายงานสถิติ</a>
+
+					<ul>
+
+						<li><a href="http://service.nso.go.th/nso/web/survey/surveylist.html">เอกสารดาวน์โหลดสำมะโน/สำรวจ</a></li>
+
+						<li class="expanded"><a href="#">สิ่งพิมพ์</a>
+
+							<ul>
+
+								<li><a href="http://service.nso.go.th/nso/web/publication/pub_eco.html">หมวดเศรษฐกิจ</a></li>
+
+								<li><a href="http://service.nso.go.th/nso/web/publication/pub_soc.html">หมวดสังคม</a></li>
+
+								<li><a href="http://service.nso.go.th/nso/web/publication/pub_ict.html">หมวดไอซีที</a></li>
+
+								<li><a href="http://service.nso.go.th/nso/web/publication/pub_oth.html">หมวดอื่น ๆ</a></li>
+
+							</ul>
+
+						</li>
+
+						<li><a href="http://service.nso.go.th/nso/web/service/service04.html">สิ่งพิมพ์ออกใหม่</a></li>
+
+						<li><a href="http://service.nso.go.th/nso/nsopublish/pubs/listDistrib.pdf">รายชื่อเอกสาร/รายงาน สำหรับจำหน่าย</a></li>
+
+						<li><a href="http://service.nso.go.th/nso/nsopublish/pubs/listFree.pdf">รายชื่อเอกสาร/รายงานสำหรับแจก</a></li>
+
+						<li><a href="http://bookonline.nso.go.th/">สั่งซื้อสิงพิมพ์ออนไลน์</a></li>
+
+						<li><a href="http://service.nso.go.th/nso/web/publication/e-book.html">e-Book</a></li>
+
+						<li><a href="http://service.nso.go.th/nso/nsopublish/pubs/yearbook.pdf">รายงานประจำปี</a></li>
+
+						<li><a href="http://service.nso.go.th/nso/web/publication/sarn.html">สารสถิติ</a></li>
+
+						<li><a href="http://service.nso.go.th/nso/search/index.jsp?product_by=1&amp;type_report=0000000001&amp;Button2=++%B5%A1%C5%A7++">ระบบสืบค้นเอกสารรายงานสถิติ</a></li>
+
+					</ul>				
+
+				</li>
+
+              </ul>
+
+            </div>
+
+          </div>
+
+          <!-- End survey container -->
+
+        </li>
+
+        <!-- End service stat -->
+
+        <li><a href="http://service.nso.go.th/nso/web/opinion/opinion.html" class="drop">ความคิดเห็นของประชาชน</a>
+
+          <!-- Begin Home Item -->
+
+        </li>
+
+        <!-- End Home Item -->
+
+        <li class="menu_right"><a href="http://service.nso.go.th/nso/web/publication/pub_eco.html" class="drop">สิ่งพิมพ์</a>
+
+          <!-- Begin public Item -->
+
+          <div class="dropdown_3columns align_right">
+
+            <!-- Begin public container -->
+
+            <div class="col_3"> <em>สิ่งพิมพ์ที่ สสช จัดทำและเผยแพร่</em></div>
+
+            <div class="cleaner h10"></div>
+
+            <div class="col_1">
+
+              <ul class="greybox">
+
+                <li><a href="http://service.nso.go.th/nso/web/publication/pub_eco.html">เศรษฐกิจ</a></li>
+
+                <li><a href="http://service.nso.go.th/nso/web/publication/pub_oth.html">อื่น ๆ</a></li>
+
+                <li><a href="http://service.nso.go.th/nso/web/publication/e-book.html">e-Book</a></li>
+
+              </ul>
+
+            </div>
+
+            <div class="col_1">
+
+              <ul class="greybox">
+
+                <li><a href="http://service.nso.go.th/nso/web/publication/pub_soc.html">สังคม</a></li>
+
+                <li><a href="http://popcensus.nso.go.th/web/bookonline/index.php" target="_blank">สั่งซื้อสิ่งพิมพ์ออนไลน์</a></li>
+
+                <li><a href="http://service.nso.go.th/nso/web/publication/sarn.html">สารสถิติ</a></li>
+
+              </ul>
+
+            </div>
+
+            <div class="col_1">
+
+              <ul class="greybox">
+
+                <li><a href="http://service.nso.go.th/nso/web/publication/pub_ict.html">ไอซีที</a></li>
+
+                <li><a href="http://service.nso.go.th/nso/web/report/pub-report.html">เอกสาร รายงานสถิติ</a></li>
+
+                <li><a href="http://service.nso.go.th/nso/nsopublish/pubs/yearbook.pdf" target="_blank">รายงานประจำปี</a></li>
+
+              </ul>
+
+            </div>
+
+            <div class="col_3"> <em>รายชื่อสิ่งพิมพ์และซีดีรอมที่ สสช จัดทำ</em></div>
+
+            <div class="cleaner h30"></div>
+
+            <div class="col_3"> <img src="img/B13.jpg" width="70" height="70" class="img_left imgshadow" alt="รายชื่อสิ่งพิมพ์และซีดีรอม และรายละเอียดในการสั่งซื้อ" />
+
+              <p> รายชื่อสิ่งพิมพ์และซีดีรอม และรายละเอียดในการสั่งซื้อ<a href="http://service.nso.go.th/nso/nsopublish/pubs/listDistrib.pdf" target="_blank">อ่านต่อ...</a></p>
+
+            </div>
+
+            <div class="col_3"> <img src="img/B15.jpg" width="70" height="70" class="img_left imgshadow" alt="รายชื่อสิ่งพิมพ์และซีดีรอม และรายละเอียดในการสั่งซื้อ" />
+
+              <p>รายชื่อสิ่งพิมพ์ แผ่นพับ ที่สามารถรับได้ฟรี<a href="http://service.nso.go.th/nso/nsopublish/pubs/listFree.pdf" target="_blank">อ่านต่อ...</a></p>
+
+            </div>
+
+          </div>
+
+          <!--end public container -->
+
+        </li>
+
+        <!-- End public-->
+
+        <li><a href="http://service.nso.go.th/nso/web/faq/faq.html" class="drop">FAQ</a>
+
+          <!-- Begin Home Item -->
+
+        </li>
+
+        <!-- End Home Item -->
+
+        <li class="menu_right"><a href="#" class="drop">บริหารจัดการระบบสถิติ</a>
+
+          <!-- Begin public Item -->
+
+          <div class="dropdown_3columns align_right">
+
+            <!-- Begin public container -->
+
+            <div class="col_3"> <em>การจัดทำมาตรฐานสถิติประเทศไทย ให้เป็นไปตามมาตรฐานสากล </em></div>
+
+            <div class="cleaner h10"></div>
+
+            <div class="col_1">
+
+              <ul class="greybox">
+
+                <li><a href="http://statstd.nso.go.th/" target="_blank">มาตรฐานสถิติ</a></li>
+
+              </ul>
+
+            </div>
+
+            <div class="col_1">
+
+              <ul class="greybox">
+
+                <li><a href="http://service.nso.go.th/nso/web/statplan/statplan03.html">นิยามศัพท์ทางสถิติ</a></li>
+
+              </ul>
+
+            </div>
+
+            <div class="col_1">
+
+              <ul class="greybox">
+
+                <li><a href="http://osthailand.nic.go.th" target="_blank">สถิติทางการประเทศไทย (Office Statistics Thailand)</a></li>
+
+              </ul>
+
+            </div>
+
+            <div class="cleaner h10"></div>
+
+          </div>
+
+          <!--end public container -->
+
+        </li>
+
+        <!-- End public-->
+
+      </ul>
+
+    </div>
+
+    <!-- end of top -->
+
+  </div>
+
+  <!-- end of top wrapper -->
+
+</div>
+
+<!-- end of header -->
+
+    
+
+<div class="cleaner h10"></div>
+
+<div id="templatemo_main">
+
+<div class="col_w600 float_l">
+
+    	<div class="content_box">
+
+         <h2>จำนวนโรงงานอุตสาหกรรม และผลผลิตภาคอุตสาหกรรม  </h2>
+
+      </div> 
+
+ 
+
+
+
+ 
+
+    
+
+
+
+    <ul class="tmo_list">
+
+      <li> 
+
+        สถิติโรงงานอุตสาหกรรม ที่จดทะเบียนไว้กับกระทรวงอุตสาหกรรม และได้รับอนุญาตให้ประกอบกิจการ (ตามพระราชบัญญัติโรงงาน พ.ศ. 2535) พ.ศ. 2548 - 2557 : 
+
+</li>
+
+      
+
+     </ul>
+
+         <p class="news_box1">  ข้อมูลเป็นรายภาค </p>	
+
+            <ul>
+
+            
+
+        <li>   <a href="tables/00000_Whole_Kingdom/11.2.xls" target="_blank">ทั่วราชอาณาจักร</a>    </li>
+
+        <li>  <a href="tables/11000_Bangkok/11.2.xls" target="_blank">กรุงเทพมหานคร</a> </li>
+
+        <li>  <a href="tables/20000_Central_Region/11.2.xls" target="_blank">ภาคกลาง</a ></li> 
+
+        <li>   <a href="tables/30000_Northern_Region/11.2.xls" target="_blank">ภาคเหนือ</a></li>
+
+        <li>  <a href="tables/40000_Northeastern_Region/11.2.xls" target="_blank">ภาคตะวันออกเฉียงเหนือ</a></li>
+
+        <li>   <a href="tables/50000_Southern_Region/11.2.xls" target="_blank">ภาคใต้</a> </li>
+
+       </ul>
+
+   
+
+   
+
+      <div class="cleaner h20"></div>  
+
+     <p class="news_box1">  ข้อมูลเป็นรายจังหวัด </p> 
+
+        
+
+   
+
+   
+
+     <ul class="topnav">
+
+	   <li><a href="#">ภาคกลาง</a> 
+
+    <ul>
+
+         
+
+						 <li> <a href="tables/27100_Kanchanaburi/11.2.xls" target="_NEW">กาญจนบุรี</a> </li>
+
+                                    <li> <a href="tables/22200_Chanthaburi/11.2.xls" target="_NEW">จันทบุรี</a> </li>
+
+                                    <li> <a href="tables/22400_Chachoengsao/11.2.xls" target="_NEW">ฉะเชิงเทรา</a> </li>
+
+                                    <li> <a href="tables/22000_Chon_Buri/11.2.xls" target="_NEW">ชลบุรี</a> </li>
+
+                                    <li> <a href="tables/21800_Chai_Nat/11.2.xls" target="_NEW">ชัยนาท</a> </li>
+
+                                    <li> <a href="tables/22300_Trat/11.2.xls" target="_NEW">ตราด</a> </li>
+
+                                    <li> <a href="tables/22600_Nakhon_Nayok/11.2.xls" target="_NEW">นครนายก</a> </li>
+
+                                    <li> <a href="tables/27300_Nakhon_Pathom/11.2.xls" target="_NEW">นครปฐม</a> </li>
+
+                                    <li> <a href="tables/21200_Nonthaburi/11.2.xls" target="_NEW">นนทบุรี</a> </li>
+
+                                    <li> <a href="tables/21300_Pathum_Thani/11.2.xls" target="_NEW">ปทุมธานี</a> </li>
+
+                                    <li> <a href="tables/27700_Prachuap_Khiri_Khan/11.2.xls" target="_NEW">ประจวบคีรีขันธุ์</a> </li>
+
+                                    <li> <a href="tables/22500_Prachin_Buri/11.2.xls" target="_NEW">ปราจีนบุรี</a> </li>
+
+                                    <li> <a href="tables/21400_Phra_Nakhon_Si_Ayutthaya/11.2.xls" target="_NEW">พระนครศรีอยุธยา</a> </li>
+
+                                    <li> <a href="tables/27600_Phetchaburi/11.2.xls" target="_NEW">เพชรบุรี</a> </li>
+
+                                    <li> <a href="tables/22100_Rayong/11.2.xls" target="_NEW">ระยอง</a> </li>
+
+                                  
+
+	                            <li> <a href="tables/27000_Ratchaburi/11.2.xls" target="_NEW">ราชบุรี</a> </li>
+
+                                    <li> <a href="tables/21600_Lop_Buri/11.2.xls" target="_NEW">ลพบุรี</a> </li>
+
+                                    <li> <a href="tables/21100_Samut_Prakan/11.2.xls" target="_NEW">สมุทรปราการ</a> </li>
+
+                                    <li> <a href="tables/27500_Samut_Songkhram/11.2.xls" target="_NEW">สมุทรสงคราม</a> </li>
+
+                                    <li> <a href="tables/27400_Samut_Sakhon/11.2.xls" target="_NEW">สมุทรสาคร</a> </li>
+
+                                    <li> <a href="tables/21900_Saraburi/11.2.xls" target="_NEW">สระบุรี</a> </li>
+
+                                    <li> <a href="tables/22700_Sa_Kaeo/11.2.xls" target="_NEW">สระแก้ว</a> </li>
+
+                                    <li> <a href="tables/21700_Sing_Buri/11.2.xls" target="_NEW">สิงห์บุรี</a> </li>
+
+                                    <li> <a href="tables/27200_Suphan_Buri/11.2.xls" target="_NEW">สุพรรณบุรี</a> </li>
+
+                                    <li> <a href="tables/21500_Ang_Thong/11.2.xls" target="_NEW">อ่างทอง</a> </li>
+
+						
+
+	 
+
+ 	
+
+    </ul>
+
+</li>
+
+      
+
+       
+
+             <li><a href="#">ภาคเหนือ</a>
+
+				<ul>   <li> <a href="tables/36200_Kamphaeng_Phet/11.2.xls" target="_NEW">กำแพงเพชร</a> </li>
+
+                                <li> <a href="tables/35000_Chiang_Mai/11.2.xls" target="_NEW">เชียงใหม่</a> </li>
+
+                                <li> <a href="tables/35700_Chiang_Rai/11.2.xls" target="_NEW">เชียงราย </a> </li>
+
+                                <li> <a href="tables/36700_Phetchabun/11.2.xls" target="_NEW">เพชรบูรณ์</a> </li>
+
+                                <li> <a href="tables/36500_Phitsanulok/11.2.xls" target="_NEW">พิษณุโลก</a> </li>
+
+                                <li> <a href="tables/35400_Phrae/11.2.xls" target="_NEW">แพร่</a> </li>
+
+                                <li> <a href="tables/35200_Lampang/11.2.xls" target="_NEW">ลำปาง</a> </li>
+
+                                <li> <a href="tables/35100_Lamphun/11.2.xls" target="_NEW">ลำพูน</a> </li>
+
+                                <li> <a href="tables/36400_Sukhothai/11.2.xls" target="_NEW">สุโขทัย</a> </li>
+
+                                <li> <a href="tables/35300_Uttaradit/11.2.xls" target="_NEW">อุตรดิตถ์ </a> </li>
+
+                                <li> <a href="tables/36100_Uthai_Thani/11.2.xls" target="_NEW">อุทัยธานี</a> </li>
+
+                                <li> <a href="tables/36300_Tak/11.2.xls" target="_NEW">ตาก</a> </li>
+
+                                <li> <a href="tables/36000_Nakhon_Sawan/11.2.xls" target="_NEW">นครสวรรค์</a> </li>
+
+                                <li> <a href="tables/35500_Nan/11.2.xls" target="_NEW">น่าน</a> </li>
+
+                                <li> <a href="tables/35600_Phayao/11.2.xls" target="_NEW">พะเยา </a> </li>
+
+                                <li> <a href="tables/36600_Phichit/11.2.xls" target="_NEW">พิจิตร</a> </li>
+
+                                <li> <a href="tables/35800_Mae_Hong_Son/11.2.xls" target="_NEW">แม่ฮ่องสอน</a> </li>
+
+				</ul>
+
+			</li>
+
+            
+
+           
+
+         
+
+             <li><a href="#">ภาคตะวันออกเฉียงเหนือ</a>
+
+				<ul>
+
+					 
+
+						  
+
+			     <li> <a href="tables/44600_Kalasin/11.2.xls" target="_NEW">กาฬสินธุ์</a> </li>
+
+                              <li> <a href="tables/44000_Khon_Kaen/11.2.xls" target="_NEW">ขอนแก่น</a> </li>
+
+                              <li> <a href="tables/43600_Chaiyaphum/11.2.xls" target="_NEW">ชัยภูมิ</a> </li>
+
+                              <li> <a href="tables/44800_Nakhon_Phanom/11.2.xls" target="_NEW">นครพนม</a> </li>
+
+                              <li> <a href="tables/43000_Nakhon_Ratchasima/11.2.xls" target="_NEW">นครราชสีมา</a> </li>
+
+                              <li> <a href="tables/43100_Buri_Ram/11.2.xls" target="_NEW">บุรีรัมย์</a> </li>
+
+                              <li> <a href="tables/43800_Bueng_Kan/11.2.xls" target="_NEW">บึงกาฬ</a> </li>
+
+                              <li> <a href="tables/44400_Maha_Sarakham/11.2.xls" target="_NEW">มหาสารคาม</a> </li>
+
+                              <li> <a href="tables/43500_Yasothon/11.2.xls" target="_NEW">ยโสธร</a> </li>
+
+                              <li> <a href="tables/44500_Roi_Et/11.2.xls" target="_NEW">ร้อยเอ็ด</a> </li>
+
+                              <li> <a href="tables/44200_Loei/11.2.xls" target="_NEW">เลย</a> </li>
+
+                              <li> <a href="tables/43300_Si_Sa_Ket/11.2.xls" target="_NEW">ศรีสะเกษ</a> </li>
+
+                              <li> <a href="tables/44700_Sakon_Nakhon/11.2.xls" target="_NEW">สกลนคร</a> </li>
+
+                              <li> <a href="tables/43200_Surin/11.2.xls" target="_NEW">สุรินทร์</a> </li>
+
+                              <li> <a href="tables/44300_Nong_Khai/11.2.xls" target="_NEW">หนองคาย</a> </li>
+
+                              <li> <a href="tables/43900_Nong_Bua_Lam_Phu/11.2.xls" target="_NEW">หนองบัวลำภู</a> </li>
+
+                              <li> <a href="tables/44100_Udon_Thani/11.2.xls" target="_NEW">อุดรธานี</a> </li>
+
+                              <li> <a href="tables/43400_Ubon_Ratchathani/11.2.xls" target="_NEW">อุบลราชธานี</a> </li>
+
+                              <li> <a href="tables/43700_Amnat_Charoen/11.2.xls" target="_NEW">อำนาจเจริญ</a> </li>
+
+                              <li> <a href="tables/44900_Mukdahan/11.2.xls" target="_NEW">มุกดาหาร</a> </li>
+
+					 
+
+				</ul>
+
+			</li>
+
+            
+
+            
+
+        
+
+             <li><a href="#">ภาคใต้</a>
+
+				<ul>
+
+						    <li> <a href="tables/58100_Krabi/11.2.xls" target="_NEW">กระบี่</a> </li>
+
+                              <li> <a href="tables/58600_Chumphon/11.2.xls" target="_NEW">ชุมพร</a> </li>
+
+                              <li> <a href="tables/59200_Trang/11.2.xls" target="_NEW">ตรัง</a> </li>
+
+                              <li> <a href="tables/58000_Nakhon_Si_Thammarat/11.2.xls" target="_NEW">นครศรีธรรมราช</a> </li>
+
+                              <li> <a href="tables/59600_Narathiwat/11.2.xls" target="_NEW">นราธิวาส</a> </li>
+
+                              <li> <a href="tables/59400_Pattani/11.2.xls" target="_NEW">ปัตตานี</a> </li>
+
+                              <li> <a href="tables/58200_Phangnga/11.2.xls" target="_NEW">พังงา</a> </li>
+
+                              <li> <a href="tables/59300_Phatthalung/11.2.xls" target="_NEW">พัทลุง</a> </li>
+
+                              <li> <a href="tables/58300_Phuket/11.2.xls" target="_NEW">ภูเก็ต</a> </li>
+
+                              <li> <a href="tables/59500_Yala/11.2.xls" target="_NEW">ยะลา</a> </li>
+
+                              <li> <a href="tables/58500_Ranong/11.2.xls" target="_NEW">ระนอง</a> </li>
+
+                              <li> <a href="tables/59000_Songkhla/11.2.xls" target="_NEW">สงขลา</a> </li>
+
+                              <li> <a href="tables/59100_Satun/11.2.xls" target="_NEW">สตูล</a> </li>
+
+                              <li> <a href="tables/58400_Surat_Thani/11.2.xls" target="_NEW">สุราษฎร์ธานี</a> </li>
+
+					 
+
+				</ul>
+
+			</li>
+
+	  </ul>  
+
+  
+
+    
+
+ 
+
+      
+
+            
+
+         <ul class="tmo_list">
+
+      <li>ปริมาณผลผลิตภาคอุตสาหกรรม จำแนกตามประเภทผลิตภัณฑ์ พ.ศ. 2545 - 2554 : 
+
+</li>
+
+</ul>
+
+		    
+
+
+
+           <p class="news_box1">  ข้อมูลเป็นรายภาค </p>
+
+           	
+
+   <ul>	  
+
+       <li><a href="tables/00000_Whole_Kingdom/11.1.xls" target="_blank">ทั่วราชอาณาจักร </a>  </li> 
+
+      
+
+    </ul>
+
+ 
+
+      
+
+ 
+
+    
+
+   </div>
+
+<div class="col_w300 float_r">
+
+   
+
+     <div id="sizecontroldiv" class="controlstyle"> <a href="#fontsize-1">ปรับขนาดตัวอักษร <img src="img/-1.gif" alt="ปรับขนาดตัวอักษรขนาดเล็ก" align="top" /></a> <a href="#fontsize0"> <img src="img/0.gif" alt="ปรับขนาดตัวอักษรขนาดกลาง" align="middle" /></a> <a href="#fontsize1"><img src="img/1.gif" alt="ปรับขนาดตัวอักษรขนาดใหญ่" align="middle" /></a></div>
+
+     <p class="news_box"></p>
+
+   
+
+   <a href="http://web.nso.go.th/index.htm" target="_blank"><img src="img/eng-ver.gif" alt="เว็บไซต์ภาษาอังกฤษ" align="middle" /></a>
+
+   <p class="news_box"></p>
+
+      <form action="http://www.google.co.th/search" method="get" target="_blank"  style="padding:0 0 0 0;margin:0 0 0 0;"><img src="img/google-3.gif" alt="ค้นหาด้วย google" width="58" height="19" align="middle" />
+
+         <input name="q"  title="ค้นหาในเว็บ สสช" size="16" maxlength="55" />
+
+        <input type="submit" name="sa" value="GO" />
+
+        <input type="hidden" value="UTF-8" name="ie" />
+
+        <input type="hidden" value="tis-620" name="oe" />
+
+        <input type="hidden" name="domains" value="service.nso.go.th" />
+
+        <input type="hidden" name="sitesearch" value="service.nso.go.th" />
+
+        <input type="hidden" value="service.nso.go.th" name="sitesearch" />
+
+      </form>
+
+        
+
+   <p class="news_box"></p>   
+
+    
+
+      <p class="news_box"><a href="http://service.nso.go.th/nso/nso_center/project/search_center/23project-th.htm" target="_blank"> สืบค้นตารางสถิติ </a></p>
+
+      <p class="news_box"><a href="../statseries/statseries.html">สถิติอนุกรมเวลา(Time series)</a></p>
+
+      <p class="news_box"><a href="http://service.nso.go.th/nso/thailand/thailand.jsp">มองเมืองไทยด้วยสถิติ </a></p>
+
+      <p class="news_box"><a href="../article/articlelist.html">บทความเด่น</a></p>
+
+      <p class="news_box"><a href="../topten/topten.html">สถิติ 10 อันดับเด่น </a></p>
+
+      <p class="news_box"><a href="../thairanking/rankinglist.html">จัดอันดับประเทศไทย </a></p>
+
+      <p class="news_box"><a href="../income/income.html">รายได้และความยากจน </a></p>
+
+      <p class="news_box"><a href="http://service.nso.go.th/nso/nsopublish/news/DWRegis.pdf">ระบบคลังข้อมูลสถิติ</a></p>
+
+      <p class="news_box"><a href="http://statgis.nso.go.th/d" target="_blank">NSO-GIS</a></p>
+
+     
+
+     
+
+       <p class="news_box"> ผู้ให้บริการข้อมูล  0 214-17500 - 03</p>
+
+      <div class="twit_rss">
+
+        <div class="twit_rss">
+
+          <p class="news_box"><a href="https://www.facebook.com/NSOOFTHAILAND"> <img src="../img/facebook.png" alt="Twitter" /></a> <a href="http://thailocal.nso.go.th/suggest/enews/index.php?option=com_ninjarsssyndicator&amp;feed_id=6&amp;format=raw"><img src="../images/rss.png" alt="RSS" /></a> <a href="http://thailocal.nso.go.th/suggest/enews/index.php?option=com_comprofiler&amp;task=registers"><img src="../images/enews.png" alt="RSS" /></a></p>
+
+        </div>
+
+      </div>
+
+      <p class="news_box"> 
+
+    <a href="http://validator.w3.org/check?uri=referer"><img
+
+      src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0 Transitional" height="31" width="88" /></a>
+
+<a href="http://www.w3.org/WAI/WCAG2AAA-Conformance"
+
+      title="Explanation of WCAG 2.0 Level Triple-A Conformance">
+
+  <img height="32" width="88" 
+
+          src="http://www.w3.org/WAI/wcag2AAA"
+
+          alt="Level Triple-A conformance,W3C WAI Web Content Accessibility Guidelines 2.0"/></a>  
+
+    </p>
+
+</div>
+
+
+
+    
+
+    
+
+</div>
+
+<div class="cleaner"></div>
+
+<div id="templatemo_footer_wrapper_01">
+
+
+
+   <div id="templatemo_footer_wrapper_02">
+
+
+
+     <div id="templatemo_footer">
+
+
+
+     
+
+
+
+       <div class="col_w225">
+
+
+
+     <div class="home">  <a href="http://www.nso.go.th"> หน้าหลัก </a></div>
+
+
+
+         <div class="col_w225_content">
+
+
+
+            
+
+
+
+         </div>
+
+
+
+       
+
+
+
+         <div class="cleaner h40"></div>
+
+
+
+       
+
+
+
+         <h5>สำมะโน</h5>
+
+
+
+         <div class="col_w225_content">
+
+
+
+           <ul class="tmo_footer_list">
+
+
+
+             <li><a href="http://popcensus.nso.go.th/">สำมะโนประชากรและเคหะ</a></li>
+
+
+
+             <li><a href="http://popcensus.nso.go.th/web/kaset/">สำมะโนการเกษตร</a></li>
+
+
+
+             <li><a href="http://service.nso.go.th/nso/web/census/bussindustry.html">สำมะโนธุรกิจและอุตสาหกรรม</a></li>
+
+
+
+           </ul>
+
+
+
+         </div>
+
+
+
+       </div>
+
+
+
+       <div class="col_w225">
+
+
+
+         <h5>บริการสถิติ</h5>
+
+
+
+         <div class="col_w225_content">
+
+
+
+           <ul class="tmo_footer_list">
+
+
+
+             <li><a href="http://service.nso.go.th/nso/web/service/service03.html">สารสนเทศสถิติเด่น (Infographics)</a></li>
+
+
+
+             <li><a href="http://service.nso.go.th/nso/web/service/service01.html">ข้อมูลสำมะโน/สำรวจล่าสุด </a></li>
+
+
+
+             <li><a href="http://164.115.22.198/statv2/bipage/page.html">สถิติทางการ(พิจารณาอนุกรรมการสถิติรายสาขา)</a></li>
+
+
+
+             <li><a href="http://service.nso.go.th/nso/web/service/service05.html">ข้อมูลสารสนเทศพื่อการตัดสินใจตามยุทธศาสตร์</a></li>
+
+
+
+             <li><a href="http://service.nso.go.th/nso/web/service/service06.html">เอกสารรายงานสถิติ</a></li>
+
+
+
+              
+
+
+
+           </ul>
+
+
+
+         </div>
+
+
+
+       </div>
+
+
+
+       <div class="col_w225">
+
+
+
+         <h5>สิ่งพิมพ์</h5>
+
+
+
+         <div class="col_w225_content">
+
+
+
+           <ul class="tmo_footer_list">
+
+
+
+             <li><a href="http://service.nso.go.th/nso/web/publication/pub_eco.html">เศรษฐกิจ </a></li>
+
+
+
+             <li><a href="http://service.nso.go.th/nso/web/publication/pub_soc.html">สังคม</a></li>
+
+
+
+             <li><a href="http://service.nso.go.th/nso/web/publication/pub_ict.html">ไอที </a></li>
+
+
+
+             <li><a href="http://service.nso.go.th/nso/web/publication/pub_oth.html">อื่น ๆ </a></li>
+
+
+
+             <li><a href="http://popcensus.nso.go.th/web/bookonline/index.php">สั่งซื้อสิ่งพิมพ์ออนไลน์ </a></li>
+
+
+
+             <li><a href="http://service.nso.go.th/nso/web/service/service06.html">เอกสาร/รายงานสถิติ</a></li>
+
+
+
+             <li><a href="http://service.nso.go.th/nso/web/publication/e-book.html">e-Book</a></li>
+
+
+
+           </ul>
+
+
+
+         </div>
+
+
+
+       </div>
+
+
+
+       <div class="col_w225 col_last">
+
+
+
+         <h5>เกี่ยวกับ สสช.</h5>
+
+
+
+         <div class="col_w225_content">
+
+
+
+           <ul class="tmo_footer_list">
+
+
+
+             <li><a href="http://service.nso.go.th/nso/web/about/about01.html">วิสัยทัศน์ ยุทธศาสตร์ พันธกิจ </a></li>
+
+
+
+             <li><a href="http://service.nso.go.th/nso/web/about/about02.html">ประวัติสำนักงาน </a></li>
+
+
+
+             <li><a href="http://service.nso.go.th/nso/web/about/about03.html">ผู้บริหารสำนักงาน </a></li>
+
+
+
+             <li><a href="http://service.nso.go.th/nso/web/about/about06.html">รายนามผู้บริหาร อดีต - ปัจจุบัน </a></li>
+
+
+
+             <li><a href="http://service.nso.go.th/nso/web/about/about04.html">โครงสร้างและภารกิจของ สสช. </a></li>
+
+
+
+             <li><a href="http://service.nso.go.th/nso/web/about/about07.html">พระราชบัญญัติสถิติ</a></li>
+
+
+
+             <li><a href="http://service.nso.go.th/nso/web/about/about05.html">นโยบายและแผน</a></li>
+
+
+
+             <li><a href="http://service.nso.go.th/nso/web/about/about07.html">การแบ่งส่วนราชการ สสช.</a></li>
+
+
+
+           </ul>
+
+
+
+           <div> </div>
+
+
+
+         </div>
+
+
+
+       </div>
+
+
+
+       <div class="cleaner h10"></div>
+
+
+
+       <div class="col_w225">
+
+
+
+         <h5>สำรวจ</h5>
+
+
+
+         <div class="col_w225_content">
+
+
+
+           <ul class="tmo_footer_list">
+
+
+
+             <li><a href="http://service.nso.go.th/nso/web/survey/survey_pop.html" target="_parent">ประชากรและเคหะ</a></li>
+
+
+
+             <li><a href="http://service.nso.go.th/nso/web/survey/survey_eco.html" target="_parent">เศรษฐกิจ</a></li>
+
+
+
+             <li><a href="http://service.nso.go.th/nso/web/survey/survey_env.html" target="_parent">พลังงานและสิ่งแวดล้อม</a></li>
+
+
+
+           </ul>
+
+
+
+         </div>
+
+
+
+       </div>
+
+
+
+       <div class="col_w225">
+
+
+
+         <h5>บริหารจัดการระบบสถิติ</h5>
+
+
+
+         <div class="col_w225_content">
+
+
+
+           <ul class="tmo_footer_list">
+
+
+
+             <li><a href="http://statstd.nso.go.th/default.aspx" target="_blank">มาตรฐานสถิติ</a></li>
+
+
+
+             <li><a href="http://service.nso.go.th/nso/web/statplan/statplan03.html">นิยามศัพท์ทางสถิติ</a></li>
+
+
+
+             <li><a href="http://osthailand.nic.go.th" target="_blank">สถิติทางการประเทศไทย (Office Statistics Thailand)</a></li>
+
+
+
+           </ul>
+
+
+
+         </div>
+
+
+
+       </div>
+
+
+
+       <div class="col_w225">
+
+
+
+         <h5>ติดต่อ สสช.</h5>
+
+
+
+         <div class="col_w225_content">
+
+
+
+           <ul class="tmo_footer_list">
+
+
+
+             <li><a href="http://service.nso.go.th/nso/web/contact/contact01.html">ที่ตั้งสำนักงาน</a></li>
+
+
+
+             <li><a href="http://service.nso.go.th/nso/web/contact/contact02.html">ผู้ให้บริการข้อมูล</a></li>
+
+
+
+             <li><a href="http://service.nso.go.th/nso/web/contact/contact04.html">ศูนย์ข้อมูลสถิติจังหวัด</a></li>
+
+
+
+           </ul>
+
+
+
+         </div>
+
+
+
+       </div>
+
+
+
+       <div class="col_w225 col_last">
+
+
+
+         <h5>อื่น ๆ </h5>
+
+
+
+         <div class="col_w225_content">
+
+
+
+           <ul class="tmo_footer_list">
+
+
+
+             <li><a href="http://service.nso.go.th/nso/nsopublish/information/info.html">ศูนย์ข้อมูลข่าวสารของ สสช.</a></li>
+
+
+
+             <li><a href="http://service.nso.go.th/nso/cleantrans/index.html">สสช. โปร่งใส</a></li>
+
+
+
+             <li><a href="http://service.nso.go.th/nso/nsopublish/nsokpi/nsokpi.html">กพร สสช.</a></li>
+
+
+
+             <li><a href="http://service.nso.go.th/nso/upload/uploadmenu.html" target="_blank">นำส่งข้อมูลจากหน่วยงานอื่น</a></li>
+
+
+
+             <li><a href="http://service.nso.go.th/nso/web/link/link.html">ลิงค์หน่วยงาน</a></li>
+
+
+
+           </ul>
+
+
+
+           <div> </div>
+
+
+
+         </div>
+
+
+
+       </div>
+
+
+
+       <div class="cleaner h20"></div>
+
+
+
+      <p class="news_box4"></p>
+
+
+
+      สงวนลิขสิทธิ์ พ.ศ. 2555  สำนักงานสถิติแห่งชาติ | <a href="http://service.nso.go.th/nso/web/about/webpolicy03.pdf">นโยบายความมั่นคงปลอดภัย </a>| <a href="http://service.nso.go.th/nso/web/about/webpolicy01.pdf"> นโยบายเว็บไซต์ </a>| <a href="http://service.nso.go.th/nso/web/about/webpolicy02.pdf"> นโยบายคุ้มครองข้อมูลส่วนบุคคล </a><br/>
+
+
+
+      ศูนย์ราชการเฉลิมพระเกียรติ ๘๐ พรรษา  อาคารรัฐประศาสนภักดี ชั้น 2 ถนนแจ้งวัฒนะ เขตหลักสี่ กทม. 10210<br/>
+
+
+
+       
+
+
+
+      โทรศัพท์ 0 2142-1234
+
+
+
+      บริการข้อมูลโทร: 0 214-17500-03 อีเมล์ : services@nso.go.th  </div>
+
+
+
+   </div>
+
+
+
+ </div>
+
+<!-- end of footer wrapper 01 -->
+
+
+
+</body>
+
+</html> 
