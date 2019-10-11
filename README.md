@@ -1,21 +1,27 @@
 # publicDataScraping
 Downloading and cleaning
 
+## Provincial factory data (annual, 2005-2014)
+- Source: http://service.nso.go.th/nso/web/statseries/statseries16.html
+- Idea: scrape links, download, clean, and export as dta
+- Variable(s): number of factories, capital, workers (male, female)
+- List of files: firmNumber_downloadSourceCode.txt, firmNumber_download.R
+
 ## Provincial CPI data (annual, 2006-2015)
 - Source: http://service.nso.go.th/nso/web/statseries/statseries25.html
-- Idea: scrape links and download
+- Idea: scrape links, download, clean, and export as dta
 - Variable(s): eatOutPrice (CPI for food consumed at restaurants)
 - List of files: CPI_downloadSourceCode.txt, CPI_download.R, getPrice.R
 
 ## Provincial rainfall data (annual, 2003-2015)
 - Source: http://service.nso.go.th/nso/web/statseries/statseries27.html
-- Idea: scrape links and download
+- Idea: scrape links, download, clean, and export as dta
 - Variable(s): total rainfall, number of rainy days
 - List of files: rainfall_sourceCode_download.txt, rainfall_download.R
 
 ## Provincial CPI data (monthly, 2003-2017)
 - Source: https://data.moc.go.th/OpenData/CPIPIndexes
-- Idea: download using API
+- Idea: download using API, clean, and export as dta
 - List of files: monthlyCPI_download.R
 - How to use: 
     1. set id for the price you want to download (Details below)
